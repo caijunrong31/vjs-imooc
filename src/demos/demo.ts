@@ -1,6 +1,6 @@
 import PasswordWidget from "../components/PasswordWidget";
 
-export default {
+export default { //
   name: "Demo",
   schema: {
     type: "object",
