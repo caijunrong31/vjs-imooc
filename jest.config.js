@@ -1,5 +1,5 @@
 module.exports = {
-  preset: "@vue/cli-plugin-unit-jest/presets/typescript-and-babel",
+  preset: '@vue/cli-plugin-unit-jest/presets/typescript-and-babel',
   moduleFileExtensions: [
     'js',
     'jsx',
@@ -10,6 +10,6 @@ module.exports = {
     'vue',
   ],
   transform: {
-    "^.+\\.vue$": "vue-jest"
-  }
-};
+    '^.+\\.vue$': 'vue-jest',
+  },
+}
